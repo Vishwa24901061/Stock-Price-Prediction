@@ -111,7 +111,7 @@ plt.show()
 
 ### Predictions
 
-![alt text](/Images/image-2.png)
+<img width="355" height="72" alt="Screenshot 2026-02-24 201653" src="https://github.com/user-attachments/assets/79f66308-fec7-457b-b427-e18560aad317" />
 
 ---
 
