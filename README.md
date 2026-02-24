@@ -52,7 +52,6 @@ Test the trained model on unseen data and visualize results by plotting the **tr
 #### Name: VISHWA V
 
 #### Register Number: 212224110062
-
 ```python
 import torch
 import torch.nn as nn
@@ -107,10 +106,11 @@ plt.show()
 
 ### True Stock Price, Predicted Stock Price vs Time
 
-<img width="1073" height="784" alt="Screenshot 2026-02-24 161408" src="https://github.com/user-attachments/assets/c017031d-808d-42b5-a256-92f18f9c9194" />
+<img width="1073" height="784" alt="Screenshot 2026-02-24 161408" src="https://github.com/user-attachments/assets/77cfde5f-005a-4936-ac95-7abb6874c3aa" />
 
 
 ### Predictions
+
 ![alt text](/Images/image-2.png)
 
 ---
